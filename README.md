@@ -128,8 +128,8 @@ logging.level.org.hibernate: ERROR
 ![](assets/Spring-Boot-MicroService-OnPerm.drawio.png)
 
 ## Components
-- [Zulu API Gateway](https://github.com/Anshul619/HLD-System-Designs/tree/main/5_MicroServices/1_APIGateway/ZuluAPIGateway.md)
-- [Eureka Server for Service Registry and discovery](https://github.com/Anshul619/HLD-System-Designs/tree/main/5_MicroServices/2_ServiceRegistry%26Discovery/Eureka.md)
+- [Zulu API Gateway](https://github.com/Anshul619/HLD-System-Designs/tree/main/3_MicroServices/1_APIGateway/ZuluAPIGateway.md)
+- [Eureka Server for Service Registry and discovery](https://github.com/Anshul619/HLD-System-Designs/tree/main/3_MicroServices/2_ServiceRegistry%26Discovery/Eureka.md)
 
 # References
 - https://www.javatpoint.com/microservices
